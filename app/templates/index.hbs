@@ -1,1 +1,7 @@
-<div> Hi, I'm a test! </div>
+<div>
+  <div class="article-list">
+    {{#each model as |article|}}
+      {{article-tile article=article}}
+    {{/each}}
+  </div>
+</div>

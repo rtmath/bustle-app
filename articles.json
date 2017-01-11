@@ -1,12 +1,11 @@
-{
-  "articles": [{
+{ "articles": [{
       "title": "Test title",
       "image": "http://",
       "source": "google images",
       "abstract": "Lorem ipsum, something something...",
       "body": "Lorem ipsum something something some more lorem ipsum",
       "author": "Wristian Kilson",
-      "timestamp": "15 minutes ago",
+      "timestamp": "15 minutes ago"
     }, {
       "title": "Test title number 2",
       "image": "http://",
@@ -14,7 +13,7 @@
       "abstract": "Lorem ipsum, a different body than the first for variance, blah blah blah...",
       "body": "Lorem ipsum, a different body than the first for variance, blah blah blah...",
       "author": "Wristian Kilson",
-      "timestamp": "1 hour ago",
+      "timestamp": "1 hour ago"
     }, {
       "title": "Test title title 3",
       "image": "http://",
@@ -22,6 +21,6 @@
       "abstract": "Lorem ipsum, this body is like totally different than the last one, I promise it is not just nonsense...",
       "body": "Lorem ipsum, a different body than the first for variance, blah blah blah...",
       "author": "Wristian Kilson",
-      "timestamp": "8 years ago",
+      "timestamp": "8 years ago"
     }]
 }
